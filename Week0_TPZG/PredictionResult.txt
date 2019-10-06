@@ -1,0 +1,42 @@
+Prediction result of the 10 race held on Oct.1st
+
+
+The predicted result of r1 is as below:
+The first place prediction:  [0, 0, 0, 0, 0, 1, 0]
+The first three prediction:  [1, 0, 0, 0, 1, 1, 0]
+
+The predicted result of r2 is as below:
+The first place prediction:  [0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+The first three prediction:  [0, 0, 0, 1, 1, 0, 0, 0, 1, 0]
+
+The predicted result of r3 is as below:
+The first place prediction:  [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+The first three prediction:  [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+
+The predicted result of r4 is as below:
+The first place prediction:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+The first three prediction:  [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1]
+
+The predicted result of r5 is as below:
+The first place prediction:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+The first three prediction:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1]
+
+The predicted result of r6 is as below:
+The first place prediction:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+The first three prediction:  [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]
+
+The predicted result of r7 is as below:
+The first place prediction:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+The first three prediction:  [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+
+The predicted result of r8 is as below:
+The first place prediction:  [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+The first three prediction:  [0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1]
+
+The predicted result of r9 is as below:
+The first place prediction:  [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+The first three prediction:  [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+
+The predicted result of r10 is as below:
+The first place prediction:  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+The first three prediction:  [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0]
