@@ -1,0 +1,10 @@
+AverageRMSEwin,0.2927
+AverageRMSEpalce,0.4333
+MeanRetPerDollar(Real odds),0.049
+TotalProfit(Real odds),0.001
+FinalWealth(Real odds),1.001
+MeanRetPerDollar(Fair odds),0.2796
+TotalProfit(Fair odds),0.0055
+FinalWealth(Fair odds),1.0055
+No.Horses,127.0
+No.Games,18.0
